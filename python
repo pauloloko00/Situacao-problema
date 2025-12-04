@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problema do Flamengo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🔴⚫ Flamengo – Situação Problema</h1>
+    </header>
+
+    <section class="content">
+
+        <div class="box problema">
+            <h2>📌 Situação</h2>
+            <p>
+                O Flamengo está enfrentando um problema de baixo aproveitamento nas finalizações.
+                Nos últimos 3 jogos, o time finalizou <strong>54 vezes</strong>, mas marcou apenas 
+                <strong>4 gols</strong>. Isso representa um aproveitamento de <strong>7,4%</strong>, bem abaixo 
+                do ideal de <strong>20%</strong>.
+            </p>
+            <p>
+                O técnico decidiu analisar o desempenho individual dos atacantes para descobrir 
+                quem precisa treinar finalização extra.
+            </p>
+        </div>
+
+        <div class="box dados">
+            <h2>📊 Desempenho dos Jogadores</h2>
+            <ul>
+                <li><strong>Pedro:</strong> 18 finalizações → 2 gols → <span>11%</span></li>
+                <li><strong>Arrascaeta:</strong> 14 finalizações → 1 gol → <span>7%</span></li>
+                <li><strong>Bruno Henrique:</strong> 11 finalizações → 1 gol → <span>9%</span></li>
+                <li><strong>Everton Cebolinha:</strong> 11 finalizações → 0 gols → <span>0%</span></li>
+            </ul>
+        </div>
+
+        <div class="box solucao">
+            <h2>✅ Conclusão</h2>
+            <p>
+                O jogador que mais precisa treinar finalização é <strong>Everton Cebolinha</strong>, 
+                que finalizou <strong>11 vezes</strong> e não marcou nenhum gol, apresentando 
+                <span class="destaque">0% de aproveitamento</span>.
+            </p>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>Flamengo – Exemplo de Situação Problema 🔴⚫</p>
+    </footer>
+
+</body>
+</html>
