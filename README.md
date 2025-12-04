@@ -6,13 +6,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <header>
         <h1>🔴⚫ Flamengo – Situação Problema</h1>
     </header>
-
     <section class="content">
-
         <div class="box problema">
             <h2>📌 Situação</h2>
             <p>
